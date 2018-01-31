@@ -1,0 +1,13 @@
+.button{
+	-fx-min-height:36;
+	-fx-max-height:36;
+	-fx-min-width:36;
+	-fx-max-width:36;
+} 
+
+.toggle-button{
+   -fx-min-height:36;
+   -fx-max-height:36;
+   -fx-min-width:36;
+   -fx-max-width:36;
+}
